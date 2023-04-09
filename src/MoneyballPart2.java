@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class MoneyBallPart2{
+public class MoneyballPart2{
    public static void main(String[] args){
 	   Scanner scnr = new Scanner(System.in);
 	
